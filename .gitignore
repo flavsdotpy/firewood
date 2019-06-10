@@ -1,0 +1,14 @@
+.idea/
+*.iml
+target/
+
+dependency-reduced-pom.xml
+
+*Main.java
+*faio.properties
+
+.settings/
+.classpath
+.project
+
+.vscode
